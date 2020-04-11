@@ -5,3 +5,4 @@ You can Visit: https://er0r.github.io/Web-Budget-Application/  to feel the app
 
 Bug Fixed -> Can Afford Float variables now.
 
+Bug Fixed -> Current Year will be shown
